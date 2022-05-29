@@ -1,4 +1,4 @@
-Hi, I’m Jyotiraditya S. Tomar
+Hi!
 
 <!---
 jyotiradityast/jyotiradityast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
