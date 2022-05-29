@@ -1,5 +1,4 @@
-Hi, I’m @jyotiradityast
-I’m currently learning Data Analytics.
+Hi, I’m Jyotiraditya S. Tomar
 
 <!---
 jyotiradityast/jyotiradityast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
